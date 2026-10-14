@@ -83,33 +83,15 @@ uv run jupyter notebook
 
 ## References
 
-### Female data and menstrual-cycle research
+- Meignié et al. (2021). *Effects of Menstrual Cycle Phase on Elite Athlete Performance: A Critical and Systematic Review.*
+- Meignié, Toussaint & Antero (2022). *Dealing with menstrual cycle in sport: Stop finding excuses to exclude women from research.*
+- Perović et al. (2023). *Learning exceptions to category rules varies across the menstrual cycle.* [Paper](https://www.nature.com/articles/s41598-023-48628-x)
+- Perović & Mack (2026). *A standardized non-linear approach to studying menstrual cycle effects on brain and behavior.* [Paper](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2026.1839153/full)
 
-**Meignié, A., Toussaint, J.-F., & Antero, J. (2022).**  
-*Dealing with menstrual cycle in sport: stop finding excuses to exclude women from research.*
+### Code
 
-A letter discussing the exclusion of women from sports research because of menstrual-cycle variation.
+- [Cyclepoint — GitHub repository](https://github.com/macklab/cyclepoint)
 
-**Meignié, A., et al. (2021).**  
-*Effects of Menstrual Cycle Phase on Elite Athlete Performance: A Critical and Systematic Review.*
-
-A systematic review examining the evidence on menstrual-cycle phase and elite athlete performance.
-
-**Perović, M., Heffernan, E. M., Einstein, G., & Mack, M. L. (2023).**  
-*Learning exceptions to category rules varies across the menstrual cycle.*
-
-Uses continuous cycle position and a generalized additive model to investigate non-linear relationships across the cycle. [Paper](https://www.nature.com/articles/s41598-023-48628-x?utm_source=chatgpt.com)
-
-**Perović, M., & Mack, M. L. (2026).**  
-*A standardized non-linear approach to studying menstrual cycle effects on brain and behavior.*
-
-Introduces the standardized **Cyclepoint** approach for modelling cycle position continuously and non-linearly. [Paper](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2026.1839153/full?utm_source=chatgpt.com)
-
-### Cyclepoint
-
-The authors provide an open-source toolkit with code and examples for standardized, non-linear menstrual-cycle analysis.
-
-[Cyclepoint GitHub repository](https://github.com/macklab/cyclepoint?utm_source=chatgpt.com)
 
 ## A note about the data
 
