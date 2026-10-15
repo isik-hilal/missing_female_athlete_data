@@ -4,3 +4,4 @@ matplotlib
 statsmodels
 pygam
 jupyter
+seaborn
