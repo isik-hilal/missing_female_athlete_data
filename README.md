@@ -72,7 +72,7 @@ uv venv
 Install the dependencies:
 
 ```bash
-uv pip install pandas numpy matplotlib statsmodels pygam jupyter
+uv pip install -r requirements.txt
 ```
 
 Start Jupyter:
